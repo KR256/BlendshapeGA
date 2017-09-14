@@ -5,7 +5,7 @@
 							    University of Bath
 
 
-The purpose of this code is to present a user interface in MAYA acting as a Genetic Algorithm to evolve
+The purpose of this code is to present a user interface in MAYA to act as a Genetic Algorithm to evolve
 the appearance of both identity and smile models. 
 
 To initiate the system please follow the following tasks:
